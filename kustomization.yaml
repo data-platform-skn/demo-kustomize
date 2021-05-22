@@ -13,4 +13,4 @@ images:
   newTag: 0.0.1
 - name: REPLACE_ME_IMAGE_NAME
   newName: 890324431850.dkr.ecr.ap-south-1.amazonaws.com/demo
-  newTag: 30ff806ab6f786c446fa7fd8ffc480ec44faf3ae
+  newTag: f1fca22e9a1930e3e9a38ad277b2ee5d28a982ab
