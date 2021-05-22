@@ -13,4 +13,4 @@ images:
   newTag: 0.0.1
 - name: REPLACE_ME_IMAGE_NAME
   newName: 890324431850.dkr.ecr.ap-south-1.amazonaws.com/data-platform-skn/demo
-  newTag: 0.0.1
+  newTag: 9a0d2d8421cebf31781f1f1f29db4630d79d19b5
