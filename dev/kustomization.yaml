@@ -1,0 +1,16 @@
+namePrefix: kustomize-
+
+resources:
+- test.yml
+- test-service.yml
+apiVersion: kustomize.config.k8s.io/v1beta1
+kind: Kustomization
+images:
+- name: REPLACE_ME_APP_NAME
+  newName: 890324431850.dkr.ecr.ap-south-1.amazonaws.com/data-platform-skn/demo
+  newTag: 0.0.1
+- name: REPLACE_ME_APP_NAME:890324431850.dkr.ecr.ap-south-1.amazonaws.com/data-platform-skn/demo
+  newTag: 0.0.1
+- name: REPLACE_ME_IMAGE_NAME
+  newName: 890324431850.dkr.ecr.ap-south-1.amazonaws.com/test-java-jx
+  newTag: 0d8fcf3f5b34b66a8d715dd597ab79a936f9a3ef
