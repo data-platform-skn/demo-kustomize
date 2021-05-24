@@ -13,4 +13,4 @@ images:
   newTag: 0.0.1
 - name: REPLACE_ME_IMAGE_NAME
   newName: 890324431850.dkr.ecr.ap-south-1.amazonaws.com/test-java-jx
-  newTag: 03693f813aa7792e5f221a7e09d33e436ef51d17
+  newTag: 0d8fcf3f5b34b66a8d715dd597ab79a936f9a3ef
