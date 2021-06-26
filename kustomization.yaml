@@ -12,5 +12,5 @@ images:
 - name: REPLACE_ME_APP_NAME:890324431850.dkr.ecr.ap-south-1.amazonaws.com/data-platform-skn/demo
   newTag: 0.0.1
 - name: REPLACE_ME_IMAGE_NAME
-  newName: 890324431850.dkr.ecr.ap-south-1.amazonaws.com/test-java-jx
-  newTag: 2f29e3dc6533228e85e0500e5058285f04918744
+  newName: 890324431850.dkr.ecr.ap-south-1.amazonaws.com/jx-spring-rest
+  newTag: c6f9074ef022484d5ef1316e14ce028f09b069cd
